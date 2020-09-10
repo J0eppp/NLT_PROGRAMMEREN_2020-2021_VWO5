@@ -8,16 +8,16 @@ Ons doel is een app die ervoor zorgt dat er minder voedselverspilling plaatsvind
 Server -> AH -> ingrediënt\
 App -> server\
 App -> barcode scannen\
-\
+
 ### Stap 2
 Server -> AH Allerhande -> recept\
 App -> server -> recept\
 App -> user input\
-\
+
 ### Stap 3 (alles combineren)
 Ingrediënt -> server -> recept\
-\
+
 ### Stap 4 (optioneel)
 Max prijs aan bijkopen toevoegen\
 Aantal persoons\
-Image recoginition (foto van komkommer wordt herkend als komkommer)\
+Image recoginition (foto van komkommer wordt herkend als komkommer)
