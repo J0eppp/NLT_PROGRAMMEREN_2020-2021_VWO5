@@ -23,4 +23,5 @@
 	* Word Ionic
 
 ## Week 3 (11 september - 18 september)
+* MySQL server op Raspberry PI werkend gekregen, 
 * Werken aan een programma dat recepten download en in de database opslaat
